@@ -25,7 +25,7 @@ $ pip3 install -r requirements.txt
 
 > Set Up Flask Environment
 
-```bash
+```bash 
 $ export FLASK_APP=run.py
 $ export FLASK_ENV=development
 ```
